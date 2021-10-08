@@ -1,0 +1,18 @@
+[
+  {
+    "code": "dealer",
+    "label": "Dealer",
+    "description": "dealer",
+    "createdBy": "Tatat",
+    "dateCreated": "2021-02-03",
+    "status": "active"
+  },
+  {
+    "code": "mdt",
+    "label": "MDT",
+    "description": "Modern Trade",
+    "createdBy": "Tatat",
+    "dateCreated": "2021-01-10",
+    "status": "active"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "caseSystem": {
+    "id": "caseSystem",
+    "label": "ระบบคดี",
+    "list": [
+      "findLoginUser",
+      "findOneUser"
+    ],
+    "form": [
+      "users"
+    ]
+  }
+}
